@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# CIVA Project
 
-You can use the [editor on GitHub](https://github.com/CIVA-Project/Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is CIVA?
 
-### Markdown
+CIVA Stands for Customizable Integrated Virtual Assistant. The plan is to combine multiple open source AI projects in order to create an easy to use, self-hosted, and most importantly useful, virtual assistant that uses your data and hardware to... well, assist you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## What is a virtual assistant?
 
-# Header 1
-## Header 2
-### Header 3
+Traditionally a virtual assistant is pretty much what you would picture a regular assistant being but usually remotely accessible online. They handle making travel arrangements, scheduling appointments, notifying you of said scheduled appointments, etc.
 
-- Bulleted
-- List
+More recently the term is being used to apply to digital personal assistants, programs or apps like Apple’s Siri, Google’s Cortana and Amazon’s Alexa.
 
-1. Numbered
-2. List
+We’re using it like the latter group. The idea here is to create an open source alternative virtual assistant which can be used in a wide variety of situations and will help bring practical usages of AI to the masses.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Why create another Virtual Assistant?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Right now the top virtual assistants are proprietary technologies owned by the some of the world's biggest companies. Most of the software that powers modern artificially intelligent applications is closed source at worst and in a form that's difficult to use at best. With the CIVA project the aim will be to facilitate an open community of researchers and programmers to create a platform which brings AI powered applications to the people. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CIVA-Project/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Why the CI in CIVA?
 
-### Support or Contact
+Well for starters it was the catchiest acronym I could come up with 😉.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+On a serious note though. The reason I chose CI, Customizable Integrated, is due to the fluid and generalizable nature I want the AI assistant to have. I won’t consider the project a success until CIVA can be easily installed, configured and plugged into your data with as little human interaction as digitally possible.
+
+CIVA will be customizable by design, created in a modular manner which requires a base install and will allow users to install modules which increase CIVA’s capabilities. It will be integrated with your data in order to learn how best to aid you, and said integration will be as easy as can be to set up, with the end result being a virtual assistant which can be as robust as you need it to be, or as simple.
+
+
+## When should we be able to expect version 1?
+
+I honestly have no idea. I’ll be working on the CIVA Project on my free time, which is limited since I have children and a full time job. That said, I have some years of project management experience under my belt and even more programming experience with all popular languages so I will be able to maintain development myself if need be. Though I suspect that if this takes off in any capacity I will see no shortage of contributors.
+
